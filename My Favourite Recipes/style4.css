@@ -1,0 +1,29 @@
+.brownie{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: burlywood;
+}
+
+.fudgy{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: beige;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(135, 115, 91);
+}
+
+.pop{
+    background-color: floralwhite;
+}
+
+.preparations{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: beige;
+    text-align: center;
+}
+
+.stuffs{
+    background-color: floralwhite;
+
+}

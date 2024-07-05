@@ -1,0 +1,39 @@
+import random
+print("Welcome to the ALIEN GAME! ")
+print("You have stolen UFO to make your way across outer space.")
+print("The aliens want their UFO back and are chasing you down!")
+print("Survive and out run the Aliens!"
+)
+done=False
+miles_traveled: = 0
+Thirst:=0
+Tiredness:=0
+
+aliens_distance=-20
+water_bottle=3
+
+
+
+
+
+
+
+
+
+
+while not  done:
+   print ("A. Drink from your water bottle")
+   print ("B. Speed up at moderate speed")
+   print ("C. Speed up at full speed")
+   print ("D. Rest")
+   print ("E. Status check")
+   print ("Q.Quit")
+
+
+
+choice=input("what do you want to select").upper()
+
+
+if user_choice =="Q" 
+   done=True
+
